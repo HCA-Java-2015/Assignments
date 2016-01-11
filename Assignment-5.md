@@ -13,7 +13,9 @@ Follow the instructions given in the problem, with these added instructions:
 * Sum up this list and print the result
 * Create a list and add all multiples of 5 to it
 * Sum up this list and print the result
-* Add the two sums together and print the final answer
+* Create a list and add all multiples of 15 to it
+* Sum up this list and print the result
+* Add the 3 and 5 sums together, subtract the 15 sum from this sum and print the final answer
 
 ### Grading
 This assignment will be graded based on completion of the following points:
@@ -23,6 +25,8 @@ This assignment will be graded based on completion of the following points:
 * Sum up this list and print the result - (3)
 * Create a list and add all multiples of 5 to it - (3)
 * Sum up this list and print the result - (3)
-* Add the two sums together and print the final answer - (1)
+* Create a list and add all multiples of 15 to it - (3)
+* Sum up this list and print the result - (3)
+* Add the 3 and 5 sums together, subtract the 15 sum from this sum and print the final answer - (1)
 
-Total Points: 17
+Total Points: 23
